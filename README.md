@@ -1,4 +1,4 @@
-# Dominion Phone & Gadget - E-commerce Platform
+#  Phone & Gadget - E-commerce Platform
 
 A full-featured e-commerce platform for mobile phones, gadgets, and accessories built with Laravel.
 
