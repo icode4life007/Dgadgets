@@ -49,3 +49,7 @@ A full-featured e-commerce platform for mobile phones, gadgets, and accessories 
 ### Shopping Page
 
 ![Shopping](screenshots/shopping.png)
+
+### Admin Dashboard
+
+![Dashboard](screenshots/dashboard.png)
