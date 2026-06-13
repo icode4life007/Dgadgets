@@ -1,0 +1,8 @@
+<!-- htmlhint: off -->
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+</IfModule>
+
+<FilesMatch "\.(jpg|jpeg|png|gif)$">
+    Header set Cache-Control "max-age=2592000, public"
+</FilesMatch>
