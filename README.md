@@ -35,3 +35,17 @@ A full-featured e-commerce platform for mobile phones, gadgets, and accessories 
 - Composer
 - Node.js & NPM (for frontend assets)
 - Laravel 10.x
+
+## 📸 Screenshots
+
+### Homepage
+
+![Homepage](screenshots/homepage.png)
+
+### New Arrival Page
+
+![New-arrival](screenshots/new-arrival.png)
+
+### Shopping Page
+
+![Shopping](screenshots/shopping.png)
